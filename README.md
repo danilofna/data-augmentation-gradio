@@ -55,12 +55,12 @@ python exercicio-02-DANILO.py
 uv run exercicio-02-DANILO.py
 ```
  
-## � Futuro e Deploy
+## Futuro e Deploy
 
 Este projeto será aprimorado futuramente com melhorias na interface, mais transformações de data augmentation e uma organização mais clara do pacote.
 Também está planejado o deploy em contêiner Docker para garantir execução consistente em qualquer ambiente.
 
-## �📂 Organização do Código
+## 📂 Organização do Código
  
 Para garantir a legibilidade e manutenibilidade, o projeto foi modularizado:
  

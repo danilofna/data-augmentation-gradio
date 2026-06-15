@@ -1,0 +1,12 @@
+[project]
+name = "exercicio2"
+version = "0.1.0"
+description = "Exercício 2 de Data Augmentation com Interface Gradio"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gradio>=6.13.0",
+    "numpy>=2.4.4",
+    "opencv-python>=4.13.0.92",
+    "tqdm>=4.67.3",
+]

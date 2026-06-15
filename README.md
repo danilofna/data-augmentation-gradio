@@ -1,6 +1,6 @@
-# Exercício 2: Data Augmentation Interativo (Gradio)
+# Data Augmentation Interativo (Gradio)
  
-Este projeto consiste em uma interface gráfica interativa desenvolvida com **Gradio** para a disciplina de **Visão Computacional** (Prof. Helton Maia). O objetivo é permitir a visualização de transformações de data augmentation em tempo real e a geração de datasets personalizados via navegador.
+Este projeto consiste em uma interface gráfica interativa desenvolvida com **Gradio** para a disciplina de **Visão Computacional**. O objetivo é permitir a visualização de transformações de data augmentation em tempo real e a geração de datasets personalizados via navegador.
  
 ## 📋 Funcionalidades
  
